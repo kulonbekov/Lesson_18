@@ -2,7 +2,8 @@ package kg.company.models;
 
 public enum Elements {
         Au("Gold", 2),
-        Cu("Медь", 3);
+        Cu("Медь", 3),
+        Ra("Radium", 5);
 
         private String name;
         private int number;
