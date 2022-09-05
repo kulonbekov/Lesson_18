@@ -2,9 +2,7 @@ package kg.company.models;
 
 public enum District {
         Ik("Issyk-Kul", 9),
-        Ta("Talas",5),
-        Na("Naryn", 5),
-        Ba("Batken", 3),
+        Ta("Talas",7),
         Ja("Jalal-Abad", 4),
         O("Osh",2);
 
