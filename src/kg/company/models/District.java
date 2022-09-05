@@ -2,7 +2,8 @@ package kg.company.models;
 
 public enum District {
         Ik("Issyk-Kul", 9),
-        Ta("Talas",5);
+        Ta("Talas",5),
+        Na("Naryn", 5);
 
     private String name;
     private int regionNum;
